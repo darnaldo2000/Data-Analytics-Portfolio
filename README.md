@@ -1,5 +1,8 @@
-# Data-Analytics-Portfolio
-Data Analytics Portfolio
+### Data-Analytics-Portfolio
+Last updated: 29/06/2023 
 
-Project 1: Cyclistic Bike share (https://www.kaggle.com/code/darnaldo/capstone-project-bike-share-data)
+#Project 1: Cyclistic Bike share (https://www.kaggle.com/code/darnaldo/capstone-project-bike-share-data)
 Tools: R, R markdown
+
+#Project 2: SQL dectective mystery
+Tools: SQL
